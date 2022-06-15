@@ -1,0 +1,9 @@
+id_course,id_customer_course,id_customer_graduate,instansi,is_aktif,name,photo,rating,testimonial,waktu_input
+2,1,1,,1,Tuanku Raihan,2022-05-24_0024002.jpg,3,"Mantapppp","Tue, 24 May 2022 00:29:07 GMT"
+5,3,3,,2,John Doe,2022-05-24_0024003.jpg,4,"Bagus Sekali","Tue, 24 May 2022 00:29:07 GMT"
+4,4,4,,2,Jane Doe,2022-05-24_0024004.jpg,5,"Coursenya sangat lengkap saya suka","Tue, 24 May 2022 00:29:07 GMT"
+3,5,5,,2,Janie Doe,2022-05-24_0024005.jpg,2,"Keren banget coursenya","Tue, 24 May 2022 00:29:07 GMT"
+2,6,6,,2,Jesslyn Doe,2022-05-24_0024006.jpg,3,"Saya rasa materinya bisa ditingkatkan lagi, tapi selebihnya baik","Tue, 24 May 2022 00:29:07 GMT"
+1,7,7,,2,Janice Doe,2022-05-24_0024007.jpg,4,"Course ini memberikan banyak pengetahuan baru bagi saya","Tue, 24 May 2022 00:29:07 GMT"
+3,2,2,,2,Jefferson Doe,2022-05-24_0024008.jpg,2,"Coursenya bagus","Tue, 24 May 2022 00:29:07 GMT"
+4,8,8,,2,James Doe,2022-05-24_0024009.jpg,3,"Materinya jarang dicover di tempat lain","Tue, 24 May 2022 00:29:07 GMT"
